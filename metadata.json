@@ -1,0 +1,6 @@
+{
+  "name": "VELLMORE",
+  "description": "Defined by design. Contemporary luxury streetwear, architectural essentials, and timeless silhouettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
